@@ -105,7 +105,7 @@ ENDDEF
 DEF Main_Socket_Left J 0 40 Y Y 1 F N
 F0 "J" 100 50 50 H V C CNN
 F1 "Main_Socket_Left" 100 -1800 50 H V C CNN
-F2 "" -100 -100 50 H I C CNN
+F2 "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical" -100 -100 50 H I C CNN
 F3 "" -100 -100 50 H I C CNN
 DRAW
 S 0 0 400 -1700 0 1 0 N
@@ -133,7 +133,7 @@ ENDDEF
 DEF Main_Socket_Left_Bottom J 0 40 Y Y 1 F N
 F0 "J" 100 50 50 H V C CNN
 F1 "Main_Socket_Left_Bottom" 100 -1800 50 H V C CNN
-F2 "" -100 -100 50 H I C CNN
+F2 "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical" -100 -100 50 H I C CNN
 F3 "" -100 -100 50 H I C CNN
 DRAW
 S 0 0 400 -1700 0 1 0 N
@@ -161,7 +161,7 @@ ENDDEF
 DEF Main_Socket_Left_Top J 0 40 Y Y 1 F N
 F0 "J" 100 50 50 H V C CNN
 F1 "Main_Socket_Left_Top" 100 -1800 50 H V C CNN
-F2 "" -100 -100 50 H I C CNN
+F2 "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical" -100 -100 50 H I C CNN
 F3 "" -100 -100 50 H I C CNN
 DRAW
 S 0 0 400 -1700 0 1 0 N
@@ -189,7 +189,7 @@ ENDDEF
 DEF Main_Socket_Right J 0 40 Y Y 1 F N
 F0 "J" 100 50 50 H V C CNN
 F1 "Main_Socket_Right" 100 -1800 50 H V C CNN
-F2 "" -100 -100 50 H I C CNN
+F2 "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical" -100 -100 50 H I C CNN
 F3 "" -100 -100 50 H I C CNN
 DRAW
 S 0 0 400 -1700 0 1 0 N
@@ -217,7 +217,7 @@ ENDDEF
 DEF Main_Socket_Right_Bottom J 0 40 Y Y 1 F N
 F0 "J" 100 50 50 H V C CNN
 F1 "Main_Socket_Right_Bottom" 100 -1800 50 H V C CNN
-F2 "" -100 -100 50 H I C CNN
+F2 "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical" -100 -100 50 H I C CNN
 F3 "" -100 -100 50 H I C CNN
 DRAW
 S 0 0 400 -1700 0 1 0 N
@@ -245,7 +245,7 @@ ENDDEF
 DEF Main_Socket_Right_Top J 0 40 Y Y 1 F N
 F0 "J" 100 50 50 H V C CNN
 F1 "Main_Socket_Right_Top" 100 -1800 50 H V C CNN
-F2 "" -100 -100 50 H I C CNN
+F2 "Connector_PinHeader_2.54mm:PinHeader_1x16_P2.54mm_Vertical" -100 -100 50 H I C CNN
 F3 "" -100 -100 50 H I C CNN
 DRAW
 S 0 0 400 -1700 0 1 0 N
